@@ -6,9 +6,9 @@
 <a href="https://linkedin.com/in/vinícius souza santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinícius souza santos" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.codewars.com/users/V1niciusSouz4"><h3 align="left">Code-Wars:</h3><a/>
+<h3 align="left">Code-Wars:</h3>
 <p align="left"> 
-<img src="https://www.codewars.com/users/V1niciusSouz4/badges/micro" alt="CodeWars Badge" width="200" height="40" />
+<a href="https://www.codewars.com/users/V1niciusSouz4"><img src="https://www.codewars.com/users/V1niciusSouz4/badges/micro" alt="CodeWars Badge" width="200" height="40" /><a/>
 </p>
 
 
